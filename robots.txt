@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ntoliveira028.github.io/Site/sitemap.xml
